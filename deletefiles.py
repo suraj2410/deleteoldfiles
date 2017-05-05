@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+Maintainer : Suraj Nair
+Created : 3rd May, 2017
+Version: 1.0
+"""
+
 import os
 import time
 import shutil
